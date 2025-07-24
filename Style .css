@@ -1,0 +1,12 @@
+h1{
+    color: red; background-color: green;
+}
+body{
+    background-color: black;
+    background-image: url(06.png.jpg);
+    background-repeat:  no-repeat;
+}
+p{
+    color: blue;
+
+}
